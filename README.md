@@ -13,7 +13,7 @@ To use the chat application:
  
     2. Run the client application.
       
-      a. Enter the host address (either IP, URL, or localhost)
+      a. Enter the host address (either IP, host address, or localhost)
       b. Enter a custom username (ex. AwesomeChuck)
       c. Enter a 16-Byte encryption key
 
