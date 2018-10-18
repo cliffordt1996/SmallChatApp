@@ -5,15 +5,15 @@ A makefile for this project will be provided soon for those weary of jars and un
 
 To use the chat application:
 
-  1) Run the server application.
-      a) Skip this step if you just want to run the client and server on your machine.
+  1. Run the server application.
+      a. Skip this step if you just want to run the client and server on your machine.
          If you intend to connect to the server remotely using a public IP, 
          you may need to port forward port 60100. The port is currently hard-coded (sorry)..
          
-  2) Run the client application.
-      a) Enter the host address (either IP, URL, or localhost)
-      b) Enter a custom username (ex. AwesomeChuck)
-      c) Enter a 16-Byte encryption key
+  2. Run the client application.
+      a. Enter the host address (either IP, URL, or localhost)
+      b. Enter a custom username (ex. AwesomeChuck)
+      c. Enter a 16-Byte encryption key
           - "16-Bytes = 16 characters/numbers"
           - This can be anything you want and is intended to test
           
@@ -28,7 +28,7 @@ To use the chat application:
           - ABSOLUTELY DO NOT SEND PERSONAL/PRIVATE INFORMATION USING THIS APPLICATION.
             Even with encryption, this application provides no guarentee that your data is safe from the bad guys!
       
-      d) Have fun using the chat application! Try the following activities:
+      d. Have fun using the chat application! Try the following activities:
           - Connect multiple users on the same machine or other machines if you have port forwarded.
           - Try sending information to someone else when KEYs match, mismatch, and are not used.
           - Try out the various settings available in the menu to personalize your chat application!
